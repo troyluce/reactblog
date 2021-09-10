@@ -1,0 +1,57 @@
+2021-09-09 10:35:36,204 INFO 11856 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-09-09 10:35:36,204 INFO 11856 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-09-09 10:35:36,204 INFO 11856 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-09-09 10:35:36,425 INFO 19348 [Timer] D:\homework\reactblog\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 64463577ms at 2021-09-10 04:30:00.002
+2021-09-09 10:35:36,425 INFO 19348 [Timer] D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 48263575ms at 2021-09-10 00:00:00.000
+2021-09-09 10:35:36,426 INFO 19348 [Timer] D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 48264575ms at 2021-09-10 00:00:01.001
+2021-09-09 14:18:16,397 INFO 7672 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-09-09 14:18:16,397 INFO 7672 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-09-09 14:18:16,397 INFO 7672 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-09-09 14:18:16,910 INFO 18632 [Timer] D:\homework\reactblog\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 51103096ms at 2021-09-10 04:30:00.006
+2021-09-09 14:18:16,911 INFO 18632 [Timer] D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 34903089ms at 2021-09-10 00:00:00.000
+2021-09-09 14:18:16,912 INFO 18632 [Timer] D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 34904089ms at 2021-09-10 00:00:01.001
+2021-09-09 16:27:07,774 INFO 9072 [Timer] D:\homework\reactblog\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 43372228ms at 2021-09-10 04:30:00.002
+2021-09-09 16:27:07,774 INFO 9072 [Timer] D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 27172226ms at 2021-09-10 00:00:00.000
+2021-09-09 16:27:07,775 INFO 9072 [Timer] D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 27173226ms at 2021-09-10 00:00:01.001
+2021-09-09 16:27:07,550 INFO 2900 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-09-09 16:27:07,550 INFO 2900 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-09-09 16:27:07,550 INFO 2900 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-09-09 22:52:36,951 INFO 14432 [Timer] D:\homework\reactblog\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 20243051ms at 2021-09-10 04:30:00.002
+2021-09-09 22:52:36,951 INFO 14432 [Timer] D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 4043049ms at 2021-09-10 00:00:00.000
+2021-09-09 22:52:36,951 INFO 14432 [Timer] D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 4044049ms at 2021-09-10 00:00:01.000
+2021-09-09 22:52:36,701 INFO 15852 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-09-09 22:52:36,701 INFO 15852 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-09-09 22:52:36,701 INFO 15852 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-09-09 23:49:57,277 INFO 19116 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-09-09 23:49:57,277 INFO 19116 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-09-09 23:49:57,277 INFO 19116 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-09-09 23:51:12,244 INFO 13792 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-09-09 23:51:12,244 INFO 13792 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-09-09 23:51:12,244 INFO 13792 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-09-09 23:51:39,244 INFO 17928 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-09-09 23:51:39,244 INFO 17928 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-09-09 23:51:39,244 INFO 17928 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-09-09 23:53:15,904 INFO 14068 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-09-09 23:53:15,904 INFO 14068 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-09-09 23:53:15,904 INFO 14068 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-09-09 23:53:17,442 INFO 10908 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-09-09 23:53:17,442 INFO 10908 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-09-09 23:53:17,442 INFO 10908 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-09-09 23:54:02,055 INFO 10676 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-09-09 23:54:02,055 INFO 10676 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-09-09 23:54:02,055 INFO 10676 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-09-09 23:54:35,850 INFO 7956 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-09-09 23:54:35,850 INFO 7956 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-09-09 23:54:35,850 INFO 7956 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-09-09 23:56:37,291 INFO 3916 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-09-09 23:56:37,291 INFO 3916 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-09-09 23:56:37,291 INFO 3916 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-09-09 23:58:24,493 INFO 15036 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-09-09 23:58:24,493 INFO 15036 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-09-09 23:58:24,493 INFO 15036 [egg-schedule]: register schedule D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-09-10 00:00:00,006 INFO 14432 [Timer] D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 86399996ms at 2021-09-11 00:00:00.002
+2021-09-10 00:00:00,004 INFO 15036 [Job#16312032000032672311189947001] D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\clean_log.js executing by app
+2021-09-10 00:00:00,009 INFO 15036 [Job#16312032000032672311189947001] D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\clean_log.js execute succeed, used 4ms. 
+2021-09-10 00:00:01,014 INFO 15036 [Job#16312032010132672321290750001] D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2021-09-10 00:00:01,021 INFO 15036 [Job#16312032010132672321290750001] D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 7ms. 
+2021-09-10 00:00:01,015 INFO 14432 [Timer] D:\homework\reactblog\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 86399987ms at 2021-09-11 00:00:01.002
